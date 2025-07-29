@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: nbdet
+Version: 0.1.0
+Summary: News summarizer and political bias detection
+Requires-Dist: requests
+Requires-Dist: python-dotenv
+Requires-Dist: transformers
+Requires-Dist: torch
+Requires-Dist: streamlit

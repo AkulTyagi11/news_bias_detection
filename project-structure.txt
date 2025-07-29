@@ -1,0 +1,23 @@
+Folder PATH listing for volume OS
+Volume serial number is 38B8-AAFA
+C:.
+|   .env
+|   bias_model.py
+|   main.py
+|   project-structure.txt
+|   summarizer.py
+|   
++---app
+|       streamlit_app.py
+|       
++---data
++---src
+|   |   data_ingest.py
+|   |   __init__.py
+|   |   
+|   \---__pycache__
+|           data_ingest.cpython-310.pyc
+|           
+\---__pycache__
+        summarizer.cpython-310.pyc
+        

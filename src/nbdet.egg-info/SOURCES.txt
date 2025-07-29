@@ -1,0 +1,10 @@
+pyproject.toml
+src/nbdet/__init__.py
+src/nbdet/bias_model.py
+src/nbdet/data_ingest.py
+src/nbdet/summarizer.py
+src/nbdet.egg-info/PKG-INFO
+src/nbdet.egg-info/SOURCES.txt
+src/nbdet.egg-info/dependency_links.txt
+src/nbdet.egg-info/requires.txt
+src/nbdet.egg-info/top_level.txt
